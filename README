@@ -1,0 +1,14 @@
+HOW TO RUN
+
+* Install play 1.2.1
+* Run "play dependencies" in the directory containing this file
+* Run "play test"
+* Open "http://localhost:9000/s/sakaki0214.com/sample/091030/" in your browser to test
+
+HOW TO SETUP IDEA
+
+* Install the latest IntelliJ IDEA and the Scala plugin
+* Choose "Create project from scratch" in the "File" menu
+* Import *.iml files
+* Open module settings and fix the class path to fit your configuration
+
